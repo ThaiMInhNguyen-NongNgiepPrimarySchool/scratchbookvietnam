@@ -23,4 +23,4 @@ Scratch cũng là một ngôn ngữ lập trình nhưng vì được thiết k�
 Chương 15 sẽ cung cấp cho bạn một số dự án hoàn chỉnh và thú vị khác.<br/><br/>
 
 # Thông tin về tác giả
-Thai MInh Nguyen - Nong Ngiep Primary School
+Thai Minh Nguyen - Nong Ngiep Primary School
