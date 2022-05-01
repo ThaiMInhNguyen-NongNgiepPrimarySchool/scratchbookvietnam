@@ -22,14 +22,5 @@ Scratch cũng là một ngôn ngữ lập trình nhưng vì được thiết k�
   Chương 12, Chương 13, và Chương 14 sẽ đề cập tới một số vấn đề quan trọng khác của công việc lập trình. Chương 12 sẽ nói về chương trình con (trong Scratch gọi là khối, các ngôn ngữ khác có thể gọi là hàm, thủ tục hoặc phương thức). Chương 13 nói về một kiểu dữ liệu quan trọng là danh sách (các ngôn ngữ khác có thể gọi là mảng). Chương 14 sẽ nói về việc xử lý các chuỗi kí tự (String).<br/><br/>
 Chương 15 sẽ cung cấp cho bạn một số dự án hoàn chỉnh và thú vị khác.<br/><br/>
 
-# Mục lục
-Tải mục lục tại [đây](https://github.com/vuhatran/scratchbook/blob/main/misc/muc%20luc.pdf)
-
-# Sample content
-Xem một phần nội dung tại [đây](https://github.com/vuhatran/scratchbook/blob/main/misc/first%20pages.pdf)
-
-# Clip ngắn giới thiệu sách
-[![Clip mở sách](https://img.youtube.com/vi/dJkmvpZPW44/0.jpg)](https://www.youtube.com/watch?v=dJkmvpZPW44)
-
 # Thông tin về tác giả
-[TS. Trần Vũ Hà](https://www.vnua.edu.vn/trang-ca-nhan/tran-vu-ha-191)
+[Thai MInh Nguyen - Nong Ngiep Primary School]
